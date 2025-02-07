@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Variables
-KEY_PATH="~/Downloads/myfirstkey911.pem"  # Path to your private key
+KEY_PATH="~/Downloads/myfirstkey911.pem"  
 USER="ec2-user"
-HOST="3.111.53.45"                       # Replace with your EC2 public IP
+HOST="3.111.53.45"                       
 LOCAL_DIR="/Users/suhaibkhan/Desktop/practicepw/src"     # Local directory
 REMOTE_DIR="/home/ec2-user"              # Remote directory on EC2
 JAR_NAME="HelloWorld.jar"
